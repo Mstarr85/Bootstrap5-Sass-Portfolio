@@ -10735,6 +10735,7 @@ textarea.form-control-lg {
   font-weight: 500;
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
+  background-color: #fff;
 }
 .btn-rounded span {
   position: absolute;
@@ -10745,6 +10746,11 @@ textarea.form-control-lg {
   right: 5px;
   transform: translateY(-50%);
   border-radius: 50%;
+}
+.btn-rounded span i {
+  color: #fff;
+  font-size: 1rem;
+  line-height: 2.5rem;
 }
 
 .menu {
